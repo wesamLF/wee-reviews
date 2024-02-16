@@ -1,0 +1,16 @@
+.filter-comp {
+    border-bottom: 1px solid var(--dark-color);
+}
+
+.filter-item-icon svg{
+    color: var(--dark-color);
+}
+.filter-item-icon:hover svg {
+    color: #000000;
+}
+
+
+.Fclose{
+    display: none !important;
+    
+}

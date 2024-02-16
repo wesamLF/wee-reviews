@@ -1,0 +1,23 @@
+
+
+.account-icons-holder{
+    position: relative;
+}
+
+.keyboard-arrow-up{
+    position: absolute;
+   
+    font-size: 15px !important;
+    bottom: -4px;
+    right: -4px;    
+}
+
+.is-active-style .keyboard-arrow-up{
+    transform: rotate(180deg);
+
+}
+.is-active-style .account-circle , .is-active-style .keyboard-arrow-up{
+    color: var(--outlined-color) !important;
+
+}
+

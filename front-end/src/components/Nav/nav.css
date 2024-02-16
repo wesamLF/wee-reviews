@@ -1,0 +1,13 @@
+.navbar{
+    position: sticky;
+    top: 0px;
+}
+.navbar-item:hover{
+    color: var(--dark-color) !important;
+}
+.active{
+    
+     background-color: var(--light-color) !important;
+    color: var(--dark-color) !important;
+    pointer-events: none; 
+}

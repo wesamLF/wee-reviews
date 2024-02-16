@@ -1,0 +1,13 @@
+.circles {
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    height: calc(100% + 150px);
+    width: 100%;
+    opacity: 0.2;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../assets/svgs/circles.svg");
+
+}

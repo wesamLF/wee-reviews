@@ -1,0 +1,27 @@
+
+.shopping-cart-modal-body{
+    position: relative;
+    border-bottom: 2px solid var(--dark-color);
+}
+
+ .item-image-container {
+    width: 100px !important;
+    height: 100px !important;
+}
+
+.item-image-container img {
+    width: 100% !important;
+    min-height: 100% !important;
+    object-fit:cover;
+} 
+.delete-item-icon{
+    position: absolute;
+    right: 0;
+    
+    color: red;
+}
+.delete-item-icon:hover {
+    color: var(--dark-color);
+
+}
+

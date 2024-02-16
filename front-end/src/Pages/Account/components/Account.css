@@ -1,0 +1,10 @@
+
+.account-container{
+    border: 1px solid var(--dark-color);
+}
+
+
+.account-body{
+    height: 85vh;
+    overflow-x: auto;
+}

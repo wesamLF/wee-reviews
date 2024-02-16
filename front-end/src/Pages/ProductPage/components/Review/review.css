@@ -1,0 +1,10 @@
+.review-body{
+    overflow: hidden;
+}
+hr.review-hr{
+    border: 1px solid var(--dark-color);
+
+}
+.review-custom-bg{
+     background: rgb(235, 230, 250);
+}

@@ -1,0 +1,16 @@
+.product-page-container{
+    min-height: 700px
+}
+
+.categories a {
+border-right: 1px rgba(128, 128, 128, 0.548) solid;
+}
+.categories a:last-child {
+    border-right: 0px;
+    }
+
+
+hr.reviews-hr{
+    border: 2px solid var(--dark-color);
+
+}

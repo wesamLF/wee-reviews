@@ -1,0 +1,35 @@
+.cart-icon {
+    color: var(--light-color);
+    position: relative;
+}
+
+.cart-icon:hover {
+    color: var(--outlined-color);
+}
+
+
+.cart-counter{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    padding: 6px;
+    font-size: 12px;
+    background-color: red ;
+    color: white;
+    top: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.modal-background {
+    background-color: rgba(2, 0, 44, 0.61);
+}
+.delete{
+    background-color:var(--dark-color) !important ;
+}
+.checkout-btn{
+    background-color: var(--dark-color)  !important ;
+    color: var(--light-color);
+}

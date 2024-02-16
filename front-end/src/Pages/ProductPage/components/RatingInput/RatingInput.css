@@ -1,0 +1,12 @@
+
+
+
+.ratingInput svg {
+    color: #6b63ff;
+    font-size: 25px;
+}
+
+.ratingInput:hover svg{
+    transform: scale(1.1);
+}
+

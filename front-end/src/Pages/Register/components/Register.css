@@ -1,0 +1,12 @@
+.register-body{
+    width: 500px;
+    max-width: 500px;
+}
+.register-btn{
+    width: 50%;
+}
+
+.register-body div .active{
+    background-color: var(--dark-color)!important ;
+    color: var(--light-color) !important;
+}

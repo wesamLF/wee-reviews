@@ -1,0 +1,12 @@
+.myreview-body{
+    color: #4a4a4a;
+}
+.myreview-body:hover  {
+    color: var(--dark-color);
+}
+.myreview-delete-item-icon{
+    color: var(--dark-color);
+}
+.myreview-delete-item-icon:hover {
+    color: red;
+}
